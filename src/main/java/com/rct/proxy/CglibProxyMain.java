@@ -18,7 +18,7 @@ public class CglibProxyMain {
 
 class Dog{
     public void eat(){
-        System.out.println("eat bone......");
+        System.out.println("Dog eat bone......");
     }
 }
 
